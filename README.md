@@ -9,7 +9,7 @@ https://lucid-kepler-4f1538.netlify.app/
 ## Screnshots
 
 
-![](Screenshot-1.png.PNG)
+![](Screenshot-1.png)
 
 ## Available Scripts
 
